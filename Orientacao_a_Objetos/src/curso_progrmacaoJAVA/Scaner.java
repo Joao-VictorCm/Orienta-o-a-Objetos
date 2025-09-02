@@ -24,6 +24,8 @@ public class Scaner {
 		System.out.println(s2);
 		System.out.println(s3);
 		
+		sc.close();
+		
 	}
 
 }
