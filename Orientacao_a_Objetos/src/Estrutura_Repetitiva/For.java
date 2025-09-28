@@ -1,6 +1,6 @@
 package Estrutura_Repetitiva;
 
-import java.util.Iterator;
+
 
 public class For {
 
