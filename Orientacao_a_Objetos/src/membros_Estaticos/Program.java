@@ -1,6 +1,6 @@
-package classes_atributos_metados_static;
+package membros_Estaticos;
 
-public class Criando_classe {
+public class Program {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
