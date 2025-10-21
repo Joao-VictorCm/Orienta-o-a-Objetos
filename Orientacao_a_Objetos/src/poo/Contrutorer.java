@@ -7,5 +7,4 @@ public class Contrutorer {
 
 	}
 
-}
-https://www.notion.so/Construtor-28e419d84e5e80a6a106cfbdf2c6423d
+};
